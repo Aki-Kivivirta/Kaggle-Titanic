@@ -1,2 +1,2 @@
 # Kaggle-Titanic
-Kaggle Titanic notebook with 79% prediction accuracy using a dense neural network and feature engineering
+Kaggle Titanic notebook with 80% prediction accuracy (top 3%) using a dense neural network and feature engineering
